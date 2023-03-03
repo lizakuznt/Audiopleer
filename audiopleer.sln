@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "audiopleer", "audiopleer\audiopleer.csproj", "{C84A1BF4-146D-4AF4-8D56-5503A37309E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C84A1BF4-146D-4AF4-8D56-5503A37309E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84A1BF4-146D-4AF4-8D56-5503A37309E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84A1BF4-146D-4AF4-8D56-5503A37309E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84A1BF4-146D-4AF4-8D56-5503A37309E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {480D567B-C247-40CE-B1A7-BF7422A34077}
+	EndGlobalSection
+EndGlobal
